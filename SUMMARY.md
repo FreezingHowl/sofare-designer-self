@@ -8,6 +8,10 @@
 
 * [思维导图](computer-composition-and-architecture/mind-map.md)
 * [计算机基础](computer-composition-and-architecture/computer-ffoundation.md)
+* [计算机组成](computer-composition-and-architecture/computer-composition.md)
+* [指令系统](computer-composition-and-architecture/instruction-system.md)
+* [可靠性](computer-composition-and-architecture/reliability.md)
+* [计算机性能指标](computer-composition-and-architecture/performance-index.md)
 
 ## 数据结构 <a href="#data-structure" id="data-structure"></a>
 
