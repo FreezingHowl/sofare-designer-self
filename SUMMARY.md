@@ -7,6 +7,7 @@
 ## 计算机组成与体系结构 <a href="#computer-composition-and-architecture" id="computer-composition-and-architecture"></a>
 
 * [思维导图](computer-composition-and-architecture/mind-map.md)
+* [计算机基础](computer-composition-and-architecture/computer-ffoundation.md)
 
 ## 数据结构 <a href="#data-structure" id="data-structure"></a>
 
