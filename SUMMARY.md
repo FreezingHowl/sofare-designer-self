@@ -28,6 +28,7 @@
 ## 系统开发基础 <a href="#system-development-foundation" id="system-development-foundation"></a>
 
 * [思维导图](system-development-foundation/mind-map.md)
+* [软件开发模型](system-development-foundation/ruan-jian-kai-fa-mo-xing.md)
 
 ## 项目管理 <a href="#project-management" id="project-management"></a>
 
